@@ -19,3 +19,22 @@ logarathmic time O(log(n)) - because of the logic iteration
 9) Constant time O(1) - it is only finding a random element of the array 
 
 10) this is a check for prime numbers this is logarithmic time O(log(n)) because of the logic iteration 
+
+
+13)
+    - 1) linear O(n) - length directly effects this
+    - 2) linear O(n) - length directly effects this
+    - 3) linear O(n) - length directly effects this
+    - 4) linear O(n) - length directly effects this
+    - 5) linear O(n) - length directly effects this
+    - 6) linear O(n) - length directly effects this
+    - 7) linear O(n) - length directly effects this
+
+14)
+    - 1) linear O(n) - length directly effects this
+    - 2) Constant time O(1) - one action to carry out
+    - 3) Constant time O(1) - one action to carry out
+    - 4) linear O(n) - length directly effects
+    - 5) linear OR logarithmis unsure?
+    - 6) linear O(n)
+    - 7)linear
