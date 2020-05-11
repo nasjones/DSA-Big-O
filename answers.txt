@@ -1,0 +1,21 @@
+1-1) constant time O(1)- because random callout waiting for return 
+1-2) linear time O(n)- because asked one by one so directly proportional to the size
+
+2)Constant time O(1)- one simple action is carried out on one value then answer is returned
+
+3)Polynomial time O(n^k) - because it has to go through two loops to reach its final value
+
+4)linear O(n) - it is directly proportional to the size
+
+**5)linear O(n)-it is directly proportional to the size 
+
+6)Polynomial time O(n^k) - because it has to go through two loops to reach its final value
+
+7) the code creates an array of alternating 1s and 0s the length of the provided number
+logarathmic time O(log(n)) - because of the logic iteration
+
+8)logarathmic time O(log(n))-  using the complex search method of consistently cutting the array in half 
+
+9) Constant time O(1) - it is only finding a random element of the array 
+
+10) this is a check for prime numbers this is logarithmic time O(log(n)) because of the logic iteration 
